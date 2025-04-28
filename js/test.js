@@ -1,1 +1,2 @@
-console.log("hhhh");
+var greeting = "hello";
+console.log(greeting);
