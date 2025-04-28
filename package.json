@@ -11,6 +11,7 @@
   },
   "scripts": {
     "build": "echo 'no build needed'",
+    "test": "echo 'no test needed'",
     "prepare": "husky"
   },
   "lint-staged": {
