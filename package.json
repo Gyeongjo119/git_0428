@@ -10,7 +10,7 @@
     "prettier": "^3.5.3"
   },
   "scripts": {
-    "build": "react-scripts build",
+    "build": "echo 'no build needed'",
     "prepare": "husky"
   },
   "lint-staged": {
